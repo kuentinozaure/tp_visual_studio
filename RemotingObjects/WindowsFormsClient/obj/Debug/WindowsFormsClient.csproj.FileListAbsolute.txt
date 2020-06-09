@@ -1,0 +1,13 @@
+C:\Users\AdminEtu\source\repos\RemotingObjects\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+C:\Users\AdminEtu\source\repos\RemotingObjects\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+C:\Users\AdminEtu\source\repos\RemotingObjects\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+C:\Users\AdminEtu\source\repos\RemotingObjects\WindowsFormsClient\bin\Debug\RemotingObjects.dll
+C:\Users\AdminEtu\source\repos\RemotingObjects\WindowsFormsClient\bin\Debug\RemotingObjects.pdb
+C:\Users\AdminEtu\source\repos\RemotingObjects\WindowsFormsClient\obj\Debug\WindowsFormsClient.csprojAssemblyReference.cache
+C:\Users\AdminEtu\source\repos\RemotingObjects\WindowsFormsClient\obj\Debug\WindowsFormsClient.Form1.resources
+C:\Users\AdminEtu\source\repos\RemotingObjects\WindowsFormsClient\obj\Debug\WindowsFormsClient.Properties.Resources.resources
+C:\Users\AdminEtu\source\repos\RemotingObjects\WindowsFormsClient\obj\Debug\WindowsFormsClient.csproj.GenerateResource.cache
+C:\Users\AdminEtu\source\repos\RemotingObjects\WindowsFormsClient\obj\Debug\WindowsFormsClient.csproj.CoreCompileInputs.cache
+C:\Users\AdminEtu\source\repos\RemotingObjects\WindowsFormsClient\obj\Debug\WindowsFormsClient.csproj.CopyComplete
+C:\Users\AdminEtu\source\repos\RemotingObjects\WindowsFormsClient\obj\Debug\WindowsFormsClient.exe
+C:\Users\AdminEtu\source\repos\RemotingObjects\WindowsFormsClient\obj\Debug\WindowsFormsClient.pdb

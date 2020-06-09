@@ -1,0 +1,6 @@
+C:\Users\AdminEtu\source\repos\RemotingObjects\RemotingObjects\bin\Debug\RemotingObjects.dll
+C:\Users\AdminEtu\source\repos\RemotingObjects\RemotingObjects\bin\Debug\RemotingObjects.pdb
+C:\Users\AdminEtu\source\repos\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.csprojAssemblyReference.cache
+C:\Users\AdminEtu\source\repos\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.csproj.CoreCompileInputs.cache
+C:\Users\AdminEtu\source\repos\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.dll
+C:\Users\AdminEtu\source\repos\RemotingObjects\RemotingObjects\obj\Debug\RemotingObjects.pdb
