@@ -1,0 +1,4 @@
+C:\Users\AdminEtu\source\repos\MOMReceiver\MOMProducer\bin\Debug\netcoreapp3.1\MOMProducer.exe
+C:\Users\AdminEtu\source\repos\MOMReceiver\MOMProducer\obj\Debug\netcoreapp3.1\MOMProducer.csprojAssemblyReference.cache
+C:\Users\AdminEtu\source\repos\MOMReceiver\MOMProducer\obj\Debug\netcoreapp3.1\MOMProducer.AssemblyInfoInputs.cache
+C:\Users\AdminEtu\source\repos\MOMReceiver\MOMProducer\obj\Debug\netcoreapp3.1\MOMProducer.AssemblyInfo.cs

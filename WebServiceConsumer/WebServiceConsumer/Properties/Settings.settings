@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebServiceConsumer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WebServiceConsumer_localhost_WebServiceHelloWorld" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44332/WebServiceHelloWorld.asmx</Value>
+    </Setting>
+    <Setting Name="WebServiceConsumer_com_dneonline_www_Calculator" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.dneonline.com/calculator.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
